@@ -484,7 +484,7 @@ footer .k{font-size:12.5px;font-weight:600;letter-spacing:.12em;text-transform:u
 
 <script>
 (function(){
-  var APP_URL='https://amanatwal11.github.io/lamena-patient-app/';
+  var APP_URL=/vercel.app$/.test(location.hostname)?'https://lamena-patient-app.vercel.app/':'https://amanatwal11.github.io/lamena-patient-app/';
   var SVC=[['gp','General Practice'],['blood','Blood test'],['sexual','Sexual health'],['annual','Annual medical'],['medical','Medical']];
   var VIS=[['inperson','Face to face'],['phone','Telephone'],['video','Video call']];
   var PRICE={gp:'from £75'};
