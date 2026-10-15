@@ -1,0 +1,80 @@
+{
+  "hero.jpg": {
+    "source": "Pexels",
+    "photographer": "Lucas Guimarães Bueno",
+    "page": "https://www.pexels.com/photo/12599544/",
+    "license": "Pexels License (free)"
+  },
+  "reception.jpg": {
+    "source": "Unsplash",
+    "photographer": "Raphael (Ajani Kamali Akio)",
+    "page": "https://unsplash.com/photos/8HRlwOui5Ig",
+    "license": "Unsplash License (free)"
+  },
+  "svc-gp.jpg": {
+    "source": "Pexels",
+    "photographer": "Cedric Fauntleroy",
+    "page": "https://www.pexels.com/photo/4266930/",
+    "license": "Pexels License (free)"
+  },
+  "svc-bloods.jpg": {
+    "source": "Pexels",
+    "photographer": "Gustavo Fring",
+    "page": "https://www.pexels.com/photo/6285376/",
+    "license": "Pexels License (free)"
+  },
+  "svc-family.jpg": {
+    "source": "Unsplash",
+    "photographer": "Vitaly Gariev",
+    "page": "https://unsplash.com/photos/EiL21cqvo58",
+    "license": "Unsplash License (free)"
+  },
+  "svc-women.jpg": {
+    "source": "Pexels",
+    "photographer": "Pavel Danilyuk",
+    "page": "https://www.pexels.com/photo/7108327/",
+    "license": "Pexels License (free)"
+  },
+  "svc-mind.jpg": {
+    "source": "Unsplash",
+    "photographer": "Vitaly Gariev",
+    "page": "https://unsplash.com/photos/SktdARcCuys",
+    "license": "Unsplash License (free)"
+  },
+  "svc-vaccine.jpg": {
+    "source": "Unsplash",
+    "photographer": "CDC",
+    "page": "https://unsplash.com/photos/GnLuuG9crEY",
+    "license": "Unsplash License (free)"
+  },
+  "app-phone.jpg": {
+    "source": "Unsplash",
+    "photographer": "Vitaly Gariev",
+    "page": "https://unsplash.com/photos/h1RVZGYWxjY",
+    "license": "Unsplash License (free)"
+  },
+  "dr-1.jpg": {
+    "source": "Pexels",
+    "photographer": "Dr Jyoti Bandi",
+    "page": "https://www.pexels.com/photo/36665076/",
+    "license": "Pexels License (free)"
+  },
+  "dr-2.jpg": {
+    "source": "Pexels",
+    "photographer": "Konrads Photo",
+    "page": "https://www.pexels.com/photo/32254662/",
+    "license": "Pexels License (free)"
+  },
+  "dr-3.jpg": {
+    "source": "Unsplash",
+    "photographer": "Humberto Chávez",
+    "page": "https://unsplash.com/photos/FVh_yqLR9eA",
+    "license": "Unsplash License (free)"
+  },
+  "team-patient.jpg": {
+    "source": "Unsplash",
+    "photographer": "Age Cymru",
+    "page": "https://unsplash.com/photos/qW3DLnehg9w",
+    "license": "Unsplash License (free)"
+  }
+}
